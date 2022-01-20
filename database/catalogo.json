@@ -1,0 +1,52 @@
+[
+{"codigo":1,
+    "titulo":"Meu Pai",
+    "duracao":97,
+    "atores":["Olivia Colman","Anthony Hopkins","Mark Gatiss","Rufus Sewell"],
+    "anoDeLancamento":2020,
+    "emCartaz":false},
+
+    {"Codigo":2,
+        "titulo":"Judas e o Messias Negro",
+        "duracao":126,
+        "atores":["Daniel Kaluuya","LaKeith Stanfield","Jesse Plemons","Dominique Fishback","Ashton Sanders","Algee Smith"],
+        "anoDeLancamento":2020,
+        "emCartaz":true},
+
+        {"Codigo":3,
+            "titulo":"Mank",
+            "duracao":132,
+            "atores":["Gary Oldman","Amanda Seyfried","Lily Collins","Arliss Howard","Tom Pelphrey","Sam Troughton","Ferdinand Kingsley","Tuppence Middleton","Tom Burke","Joseph Cross"],
+            "anoDeLancamento":2020,
+            "emCartaz":false},
+
+            {"Codigo":4,
+                "titulo":"Minari: Em Busca da Felicidade",
+                "duracao":116,
+                "atores":["Alan S. Kim","Yeri Han","Noel Cho","Steven Yeun","Darryl Cox","Esther Moon","Ben Hall"],
+                "anoDeLancamento":2020,
+                "emCartaz":false},
+
+                {"Codigo":5,
+                    "titulo":"Nomadland",
+                    "duracao":116,
+                    "atores":["Frances McDormand","Gay DeForest","Patricia Grier","Linda May","Angela Reyes","Carl R. Hughes"],
+                    "anoDeLancamento":2020,
+                    "emCartaz":false},
+
+                    {"Codigo":6,
+                        "titulo":"Bela Vingança",
+                        "duracao":114,
+                        "atores":["Adam Brody","Ray Nicholson","Sam Richardson","Carey Mulligan","Timothy E. Goodwin"],
+                        "anoDeLancamento":2020,
+                        "emCartaz":false},
+
+                        {"Codigo":7,
+                            "titulo":"O som do Silêncio",
+                            "duracao":120,
+                            "atores":["Riz Ahmed","Olivia Cooke","Lauren Ridloff","Paul Raci","Mathieu Amalric","Chelsea Lee","Shaheem Sanchez","Chris Perfetti","Tom Kemp","Rena Maliszewski"],
+                            "anoDeLancamento":2020,
+                            "emCartaz":false}
+                        ]
+
+                    
